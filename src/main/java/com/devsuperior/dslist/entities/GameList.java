@@ -35,11 +35,11 @@ public class GameList {
 		this.id = id;
 	}
 
-	public String getList() {
+	public String getName() {
 		return name;
 	}
 
-	public void setList(String name) {
+	public void setName(String name) {
 		this.name = name;
 	}
 
